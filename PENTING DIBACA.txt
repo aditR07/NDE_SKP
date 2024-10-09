@@ -8,5 +8,7 @@
 8. Info login
   Superadmin = { username: superadmin, password: superadmin }
   Admin      = { username: admin, password: admin }
+
+9. memakai PHP 5 - 7
   
 Thanks!

@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/pengarsipan/';
+$config['base_url'] = 'http://localhost/NDE_SKP/';
 //$config['base_url'] = 'http://sisarsip-smkdh.now.sh';
 
 /*
